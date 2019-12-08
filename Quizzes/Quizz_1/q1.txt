@@ -1,0 +1,5 @@
+1) O(nlog(n))
+2) Yes/True
+3) a) Yes, if f(n) <= g(n) for n sufficiently large; b) Sometimes ---> a,b
+4) O(nk^2)
+5) n^2 -> n^2 * log(n) -> n ^ (log(n)) -> 2 ^ n -> 2 ^ (2 ^ n) -> eadbc
