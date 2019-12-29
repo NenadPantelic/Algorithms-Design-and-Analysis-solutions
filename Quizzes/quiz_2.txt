@@ -1,0 +1,5 @@
+1) Theta(n^(log(5)/log(3))); Theta(n^(log_3(5))); Theta(n^1.46)
+2)log(b)
+3) 1-2*alpha
+4)-log(n)/log(alpha) <= alpha <= -log(n)/log(1-alpha)
+5) Min: Theta(log(n)); Max: Theta(n)

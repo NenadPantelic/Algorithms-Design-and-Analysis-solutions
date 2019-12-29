@@ -1,0 +1,9 @@
+1) n-1
+2) 
+There exists a graph G with n nodes and a min cut(A,B) of G sich that: Pr[out = (A,B)]<=p
+For every graph G with n nodes, there exists a min cut(A,B) of G such that Pr[out = (A,B)]>=p
+For every graph G with n nodes an every min cut(A,B) of G such that Pr[out = (A,B)]>=p
+
+3) 2*alpha - 1
+4) -log(n)/log(alpha)
+5) n-1
